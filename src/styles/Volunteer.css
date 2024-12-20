@@ -1,0 +1,59 @@
+.volunteer {
+    background-color: #fff;
+  }
+  
+  .volunteer-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .volunteer-info {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .volunteer-info h3 {
+    color: #4CAF50;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .volunteer-form {
+    display: grid;
+    gap: 20px;
+  }
+  
+  .volunteer-form input,
+  .volunteer-form select,
+  .volunteer-form textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 1rem;
+  }
+  
+  .volunteer-form textarea {
+    height: 150px;
+    resize: vertical;
+  }
+  
+  .volunteer-form button {
+    background: #4CAF50;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  button {
+    background: #4CAF50;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
